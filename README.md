@@ -4,8 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-![Alt text](file:///C:/Users/Alexo/Desktop/Screenshot_20220316-202247.png "main")
+
 This project is a starting point for a Flutter application.
+<img src="images/alex.png" width="230" height="430">
 
 A few resources to get you started if this is your first Flutter project:
 
